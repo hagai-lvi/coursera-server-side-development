@@ -8,3 +8,4 @@ from The Hong Kong University of Science and Technology.
 Each weekly assignment is in a directory of it's own.
 
 - [First week](week-1-assignment) - Node modules, express and REST api
+- [Second week](week-2-assignment) - MongoDB and Mongoose
